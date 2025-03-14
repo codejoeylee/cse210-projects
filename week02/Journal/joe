@@ -1,0 +1,12 @@
+[
+  {
+    "Date": "03/14/2025",
+    "PromptText": "What did you learn today?",
+    "EntryText": "C# getters and setters"
+  },
+  {
+    "Date": "03/14/2025",
+    "PromptText": "What was the best part of your day?",
+    "EntryText": "I learned how to use JSON in c#"
+  }
+]
